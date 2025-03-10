@@ -7,7 +7,6 @@ argon2-cffi-bindings==21.2.0
 attrs==22.1.0
 autopep8==2.0.1
 Babel==2.11.0
-backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 beautifulsoup4 @ file:///opt/conda/conda-bld/beautifulsoup4_1650462163268/work
 bleach==5.0.1
 brotlipy==0.7.0
